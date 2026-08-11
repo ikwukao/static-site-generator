@@ -35,7 +35,7 @@ Developed as part of the Boot.dev Backend Developer curriculum, this project dem
 # Architecture
 
 ```
-static_site_generator/
+static-site-generator/
 │
 ├── content/                 # Markdown source files
 ├── static/                  # CSS, images, favicon
@@ -133,8 +133,8 @@ This project demonstrates practical experience with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ikwukao/static_site_generator.git
-cd static_site_generator
+git clone https://github.com/ikwukao/static-site-generator.git
+cd static-site-generator
 ```
 
 ---
